@@ -1,0 +1,16 @@
+student_id,name,skills,education,experience
+STU001,Aarav Sharma,"Python, SQL, Pandas, Excel",B.Tech Computer Science,Fresher
+STU002,Priya Patel,"HTML, CSS, JavaScript, React",B.Tech Information Technology,6 months internship
+STU003,Rohan Verma,"Python, Machine Learning, Pandas, NumPy, Scikit-learn",B.Tech AI & Data Science,Fresher
+STU004,Ananya Iyer,"Java, Spring Boot, SQL, Git",B.Tech Computer Science,1 year project experience
+STU005,Vikram Singh,"C++, Data Structures, Algorithms, Linux",B.Tech Electronics,Fresher
+STU006,Sneha Rao,"Excel, SQL, Power BI, Statistics",B.Tech Information Technology,6 months internship
+STU007,Aditya Kulkarni,"Python, SQL, Apache Spark, AWS",B.Tech Computer Science,Fresher
+STU008,Neha Gupta,"Python, Django, PostgreSQL, REST API",B.Tech Computer Science,1 year project experience
+STU009,Tanuj Mehta,"Python, SQL, Machine Learning, Data Structures, Pandas",B.Tech Computer Science,Fresher
+STU010,Kavya Reddy,"AWS, Linux, Docker, Python",B.Tech Information Technology,Fresher
+STU011,Siddharth Joshi,"Java, Data Structures, Algorithms, SQL",B.Tech Computer Science,Fresher
+STU012,Ritu Deshmukh,"HTML, CSS, JavaScript, Bootstrap",B.Tech Information Technology,Fresher
+STU013,Karan Malhotra,"Python, Machine Learning, Deep Learning, PyTorch",B.Tech AI & Data Science,6 months internship
+STU014,Ishita Sen,"Excel, Power BI, SQL, Statistics, Tableau",B.Tech Information Technology,Fresher
+STU015,Manish Nair,"Python, Selenium, Test Automation, SQL",B.Tech Computer Science,Fresher
